@@ -7,6 +7,9 @@ module.exports = {
     extend: {
       screens: {
         "sm" : "480px",
+      },
+      spacing: {
+        "big" : "40rem"
       }
     },
     fontFamily: {
